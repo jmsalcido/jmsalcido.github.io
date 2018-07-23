@@ -40,9 +40,17 @@ There is more, this is cheesy AF but I am gonna quote him:
 
 >Batman:
 >
-> He's fine. Despite all your sick, vicious little games, he's as sane as he ever was. So maybe ordinary people don't always crack. Maybe there isn't any need to crawl under a rock with all the other slimey things when trouble hits. **Maybe it was just you, all the time**.
+> He's fine.
+>
+>Despite all your sick, vicious little games, he's as sane as he ever was.
+>
+> So maybe ordinary people don't always crack.
+>
+> Maybe there isn't any need to crawl under a rock with all the other slimey things when trouble hits. 
+>
+>**Maybe it was just you, all the time**.
 
-I mean, it applied to my life in that very insisting moment, I had a very good conversation with the person that actually made me get out of the bad day. I am sane and good.
+I mean, it applied to my life in that very special moment, I had a very good conversation with the person that actually made me get out of the bad day. I am sane and good.
 
 I hope that person reads this at least once, so I can ruin the Joker and Batman for that person ;)
 
