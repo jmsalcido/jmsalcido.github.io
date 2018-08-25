@@ -10,7 +10,7 @@ google_verification: UA-12826145-1
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", 'vendor']
 
 # Sass
 sass:

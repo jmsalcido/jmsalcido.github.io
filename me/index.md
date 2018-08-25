@@ -5,6 +5,13 @@ title: me
 
 Hola my guest!
 
+<div style="text-align: center;">
+    <img class="me" src="/assets/img/me.jpg" />
+</div>
+
+<br/>
+<br/>
+
 My name is **Jose Miguel** and I want to thank you very much for reading thru all of these entries or looking at this.
 
 I am a software engineer from Mexico, but other than Software my favorite topics include:
