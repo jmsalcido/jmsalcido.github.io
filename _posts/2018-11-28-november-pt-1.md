@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "November 2018"
+title: "November 2018 - Part 1"
 tags: personal
 ---
 
